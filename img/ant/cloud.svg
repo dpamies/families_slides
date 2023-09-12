@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="700"
+   height="398.4375"
+   viewBox="0 0 896 510"
+   class="icon"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ant-cloud-svgrepo-com.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04875"
+     inkscape:cx="352.3242"
+     inkscape:cy="199.28486"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 314.9,480.8 c -3.1,0 -6.1,-0.5 -8.8,-1.5 l 4.4,30.7 h 26.3 l -15.5,-29.9 c -2.1,0.5 -4.2,0.7 -6.4,0.7 z m 421,-291.2 c -12.6,0 -24.8,1.5 -36.5,4.2 -21.4,-38.4 -62.3,-64.3 -109.3,-64.3 -6.9,0 -13.6,0.6 -20.2,1.6 C 534.5,53.7 456.5,0 366,0 253.7,0 160.7,82.6 144.4,190.4 63.3,198.3 0,266.6 0,349.8 0,438.2 71.6,509.9 160,510 h 50 l 13.2,-27.6 c -26.2,-8.3 -43.3,-29 -39.1,-48.8 4.6,-21.6 32.8,-33.9 63.1,-27.5 22.9,4.9 40.4,19.1 45.5,35.1 4.73125,-7.67219 13.08636,-12.36012 22.1,-12.4 h 0.2 c -0.8,-3.2 -1.2,-6.5 -1.2,-9.9 0,-20.1 14.8,-36.7 34.1,-39.6 v -25.4 c 0,-4.4 3.6,-8 8,-8 4.4,0 8,3.6 8,8 v 26.3 c 4.6,1.2 8.8,3.2 12.6,5.8 L 396,364.6 c 3,-3.3 8,-3.5 11.3,-0.5 3.3,3 3.5,8 0.5,11.3 l -20,22 -0.2,0.2 c 9.10346,14.3662 8.12698,32.91809 -2.43434,46.24923 C 374.60433,457.18036 356.76788,462.37529 340.7,456.8 c -0.4,5.6 -2.6,10.7 -6,14.8 l 20,38.4 H 740 v -0.1 c 86.5,-2.2 156,-73 156,-160.1 0,-88.5 -71.7,-160.2 -160.1,-160.2 z M 274.2,480 l -4.3,30 h 24.4 l -5.9,-41.5 c -3.5,4.6 -8.3,8.5 -14.2,11.5 z m -34.8,5.7 -11.6,24.3 h 26 l 3.5,-24.7 c -5.7,0.8 -11.7,1 -17.9,0.4 z"
+     id="path2"
+     sodipodi:nodetypes="sccccsscscscsccccccccscssscccssccscccccsscccccccccc"
+     style="fill:#a6e2f9;fill-opacity:1" />
+</svg>
